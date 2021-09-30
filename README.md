@@ -4,6 +4,13 @@
 
 <br>
 
+### Sources
+> https://www.youtube.com/watch?v=VPVtlODPdPY
+
+> https://www.surfpoeten.de/apps/sudoku/generator/
+
+<br>
+
 Solving this
 
 | | | | | | | | | |
